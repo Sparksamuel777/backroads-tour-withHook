@@ -14,7 +14,7 @@ export const Tour = ({image, location, days}) => {
 		// triggers re-render everytime the function is called
 		setTour({image: tour.image, location: tour.location, days: (tour.days -1)})
 	}
- if (two == 2)
+
 
 
 	console.log(days)
